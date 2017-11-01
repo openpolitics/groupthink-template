@@ -1,16 +1,11 @@
 ---
-title: Welcome!
+title: Y7K Constitution
 ---
 
-This site is a collaborative effort, built with software from the [OpenPolitics project](https://openpolitics.org.uk). It's a bit like a wiki, but with voting, and backed by [git](https://git-scm.com), an advanced version control system.
+Y7K is a digital agency started by Joris Noordermeer, Yves Sinka and Ruben Feurer. It origins from the desire to work on something that creates value for their clients as well as society, and is in line with their inner conviction.
 
-* Anyone can edit a page - just click "suggest a change" in the top right.
-* Once a suggestion is made, project contributors vote on whether or not it's accepted. Click "View proposals" above to see the current proposals.
-* Once a proposal is accepted, the author gets to vote on future proposals.
+The following constitution forms the fundament on which the organisation is based. Its articles define a set of principles and moral beliefs we want to live and work by on a daily basis. Individuals who work at Y7K agree with this constitution and act on the best of their knowledge and belief to follow the principles. It aims to give members of the organisation a maximal amount of liberty and independence in their work life and will provide a measurement for actions. 
 
-For now, while you can edit any page, new pages must be created using GitHub's built-in editor or by using a local git clone. Talk to a project administrator or a nearby coder for help there.
+To implement the constitution in our daily business, we define a set of rules, measurable goals and concrete actions. 
 
-## Your first edits
-
-1. Visit [Creative Commons](https://creativecommons.org/) and choose a license for this site, then edit [the license page](license.html) to match.
-2. Consider adding a code of conduct. We recommend the [Contributor Covenant](http://contributor-covenant.org/). Pop that into the [Contributing](contributing.html) page.
+An organisation needs to adapt to its integral parts and outside environment. Therefore the constitution, as the backbone of our organisation, is fluid. The people of Y7K regularly improve the constitution by means of adjusting its content.
