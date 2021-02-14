@@ -4,6 +4,10 @@ name: OpenPolitics Template
 # It will be something like https://my-votebot.herokuapp.com
 votebot_url: 
 
+# Change this to the default branch of your manifesto repository if
+# required, e.g. main
+branch: master
+
 # Don't worry about the rest of this for now. Once you get into customising
 # the site a bit more, look at https://jekyllrb.com/ for an introduction.
 
